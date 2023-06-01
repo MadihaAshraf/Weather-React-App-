@@ -1,3 +1,6 @@
+extract the code in a new folder (weather app) 
+run the folder(weather app) in vs code
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
